@@ -16,7 +16,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "6497757690"
+      "value": "5179011789"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -24,7 +24,7 @@
     },
     "MONGO_URI": {
       "description": "Paste your mongo db url",
-      "value": "url"
+      "value": ""
     },
     "SESSION_NAME":{
       "description": "Enter your DATABASE_NAME ",
@@ -36,7 +36,7 @@
     },
     "EVERYONE_CHATS":{
       "description": " Chat identifier of the user who can't touch bot code.",
-      "value": "-1001995978690"
+      "value": "-1001927345015"
     },
     "INDEX_URL":{
       "description": "Index url for drive uploads",
@@ -56,12 +56,12 @@
     },
     "SUDO_USERS": {
       "description": "Chat identifier of the sudo user.",
-      "value": "5115691197 6273945163 6103092779 5231212075",
+      "value": "5179011789",
       "required": false
     },
     "LOG_CHANNEL": {
       "description": "for bot logs (user and group id will also work!",
-      "value": "-1001868871195",
+      "value": "-1001811301225",
       "required": true
     }
   },
@@ -73,7 +73,7 @@
   "formation": {
       "worker": {
         "quantity": 1,
-        "size": "basic"
+        "size": "free"
     }
   }
 }
